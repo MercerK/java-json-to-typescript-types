@@ -1,0 +1,17 @@
+{
+  "name": "type-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kyle <kyle.mercer.89@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx src/main.ts"
+  },
+  "dependencies": {
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.5"
+  }
+}
